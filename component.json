@@ -1,7 +1,7 @@
 {
   "name": "is-domain",
   "repo": "segmentio/is-domain",
-  "version": "1.1.0",
+  "version": "0.0.1",
   "license": "MIT",
   "description": "Check whether a string is a domain.",
   "keywords": [
